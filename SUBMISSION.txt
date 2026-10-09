@@ -1,0 +1,1 @@
+API Python 3.12 sem dependências externas, persistência SQLite, README com exemplos e limitações, testes via python3 -m unittest -v. Uso de IA: Codex implementou, testou e realizou revisão automatizada das regras e do diff; não declaramos revisão humana que ainda não ocorreu. Veja README.md e AI_USAGE.md.

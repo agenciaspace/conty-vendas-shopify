@@ -1,0 +1,1 @@
+Implementação, testes, documentação e revisão automatizada produzidos com Codex a pedido de Leon Hatori. A revisão automatizada conferiu as regras do enunciado, testes executados e exemplos HTTP. Não declaramos revisão humana que ainda não ocorreu. Provedores simulados estão identificados; não há alegação de integração real.
